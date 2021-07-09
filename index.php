@@ -18,6 +18,8 @@
      <li><a href="herosStrict.php">tp Heros en mode strict</a></li>
 
    <li><a href="objets/progObjet.php">Programmation Objet</a></li>
-   </ul>
+   <li><a href="geometrie/geometrie.php">Programmation Objet</a></li>
+   
+</ul>
    </body>
 </html>
